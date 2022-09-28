@@ -1,3 +1,22 @@
-h1, p {
+h1,
+p {
   font-family: Lato;
+}
+
+div {
+  border: 1px dotted blueviolet;
+  background-color: darkgray;
+  height: 50vh;
+  width: 50vh;
+  justify-content: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  margin-left: 25px;
+}
+
+#main {
+  display: flex;
 }
